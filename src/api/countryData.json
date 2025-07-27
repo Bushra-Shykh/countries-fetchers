@@ -1,0 +1,75 @@
+[
+  {
+    "id": 1,
+    "countryName": "Nepal",
+    "capital": "Kathmandu",
+    "population": 29609623,
+    "interestingFact": "Nepal is home to Mount Everest, the tallest mountain in the world, standing at 8,848 meters above sea level. The country is renowned for its rich cultural heritage, ancient temples, and spiritual traditions rooted in Hinduism and Buddhism. It is also the only country with a non-rectangular national flag.",
+    "birthRate": 19.8,
+    "popularAttraction": "Mount Everest"
+  },
+  {
+    "id": 2,
+    "countryName": "Egypt",
+    "capital": "Cairo",
+    "population": 104258327,
+    "interestingFact": "Egypt is famous for the Pyramids of Giza, one of the Seven Wonders of the Ancient World. It’s home to the Nile River and ancient civilizations that have shaped history for millennia.It’s home to the Nile River and ancient civilizations that have shaped history for millennia.",
+    "birthRate": 24.1,
+    "popularAttraction": "Pyramids of Giza"
+  },
+  {
+    "id": 3,
+    "countryName": "Australia",
+    "capital": "Canberra",
+    "population": 25687041,
+    "interestingFact": "Australia is home to the Great Barrier Reef, the world's largest coral reef system, stretching over 2,300 kilometers. It is a biodiversity hotspot with thousands of marine species. Australia is also known for its unique wildlife, including kangaroos and koalas, and its vast Outback desert landscapes.",
+    "birthRate": 12.4,
+    "popularAttraction": "Great Barrier Reef"
+  },
+  {
+    "id": 4,
+    "countryName": "Brazil",
+    "capital": "Brasilia",
+    "population": 213993437,
+    "interestingFact": "Brazil contains the Amazon Rainforest, the largest tropical rainforest on Earth, often referred to as the 'lungs of the planet.' The country is also known for its vibrant culture, Carnival festivals, football legacy, and iconic landmarks like Christ the Redeemer in Rio de Janeiro.",
+    "birthRate": 13.5,
+    "popularAttraction": "Christ the Redeemer"
+  },
+  {
+    "id": 5,
+    "countryName": "France",
+    "capital": "Paris",
+    "population": 67407241,
+    "interestingFact": "The Eiffel Tower in Paris was once the tallest man-made structure in the world when completed in 1889. France is known for its influence on art, cuisine, fashion, and philosophy. It is the most visited country in the world, attracting millions of tourists each year to its historic cities and countryside.",
+    "birthRate": 11.2,
+    "popularAttraction": "Eiffel Tower"
+  },
+  {
+    "id": 6,
+    "countryName": "Russia",
+    "capital": "Moscow",
+    "population": 146071000,
+    "interestingFact": "Russia is the largest country in the world by land area, covering over 17 million square kilometers and spanning eleven time zones. It is rich in natural resources, history, and cultural heritage—from classical literature and ballet to Soviet-era achievements in space exploration.",
+    "birthRate": 9.4,
+    "popularAttraction": "Red Square, Moscow"
+  },
+  {
+    "id": 7,
+    "countryName": "China",
+    "capital": "Beijing",
+    "population": 1444216107,
+    "interestingFact": "China is home to the Great Wall, an ancient defensive structure stretching over 21,000 kilometers. It is one of the oldest civilizations in the world, with a continuous history of more than 3,000 years. China has made major contributions to science, technology, philosophy, and art throughout history.",
+    "birthRate": 10.5,
+    "popularAttraction": "Great Wall of China"
+  },
+  {
+  "id": 8,
+  "countryName": "Japan",
+  "capital": "Tokyo",
+  "population": 125960000,
+  "interestingFact": "Japan is an archipelago of over 6,800 islands and is known for its blend of ancient tradition and cutting-edge technology. It is home to the world’s oldest monarchy and famous for its cherry blossoms, samurai history, and sushi cuisine.",
+  "birthRate": 7.1,
+  "popularAttraction": "Mount Fuji"
+}
+
+]
